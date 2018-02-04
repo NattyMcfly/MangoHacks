@@ -1,1 +1,0 @@
-include ':LOGIN', ':app', ':base', ':instantapp', ':home', ':The Deck'
